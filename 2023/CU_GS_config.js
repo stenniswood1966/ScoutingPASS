@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023miket",
+      "defaultValue": "2023misjo",
       "required": "true",
       "disabled": "true"
     },
